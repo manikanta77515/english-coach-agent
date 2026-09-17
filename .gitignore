@@ -1,11 +1,15 @@
-# Virtual Environment
+# Virtual environment
 venv/
 .venv/
 
-# Environment Variables & Secrets
+# Environment files
 .env
 
-# Python Cache
+# Python bytecode & cache
 __pycache__/
 *.py[cod]
+
+# Runtime state & user logs
+chat_history.json
+mistake_log.txt
 

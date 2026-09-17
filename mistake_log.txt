@@ -3,3 +3,15 @@ Mistake: I didn't went yesterday | Correction: I didn*t went yesterday
 Mistake: I love india | Correction: I love India
 Mistake: I love India | Correction: What is AI and How to become AI Engineer
 Mistake: I love india | Correction: I love India
+Mistake: hii | Correction: Hello
+Mistake:  criminal  | Correction: criminal
+Mistake: maybe | Correction: possibly
+Mistake: meaning of execellent | Correction: meaning of excellent
+Mistake: hii my name is surya | Correction: Hello
+Mistake: hii my name is surya | Correction: Hello
+Mistake: hii | Correction: Hello
+Mistake: I want to be Python/Django Backend Developer | Correction: I want to be a Python/Django backend developer
+Mistake: I am MBA candidate | Correction: I am an MBA candidate
+Mistake: Hi Coach, I am currently reading a book called &apos;Atomic Habits&apos; | Correction: I am currently reading a book called &quot;Atomic Habits&quot; by James Clear.
+Mistake: What is machine learning | Correction: machine learning
+Mistake: i am surya and i am from andhrapradeesh i have completed my graduation in 2025 nowi am pursuing MCA | Correction: Hello, I am Surya and I am from Andhra Pradesh, I have completed my graduation in 2025, now I am pursuing an MBA in MCA.
